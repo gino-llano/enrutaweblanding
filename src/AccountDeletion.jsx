@@ -7,7 +7,7 @@ export default function AccountDeletionPage() {
       // style={{ backgroundImage: 'url("/logo_tienda.png")' }}
     >
         <img
-          src="/logo_tienda.png"
+          src="./logo_tienda.png"
           alt=""
           className="w-1/4 max-w-[500px] rounded-full mx-auto mb-6"
           style={{
